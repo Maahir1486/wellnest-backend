@@ -1,0 +1,46 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/resources/*.jar
+!**/src/test/resources/*.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Others ###
+*.log
+*.temp
+*.tmp
+mvn_err.txt
+mvn_live.log
+compile_results.txt
+fix_attempt.log
+final_fix_attempt.log
+plain_mvn.txt
+full_mvn_log.txt
+output.log
+run_err.log
+full_debug.log
+error.txt
+last_compile.log
